@@ -1,7 +1,7 @@
 <h1 align="center">Olá, João Vitor aqui! 👋</h1>
 
 - 🔭 Atualmente procuro oportunidade de estágio front-end mobile
-- 🌱 Estudando  React Native
+- 🌱 Meu objetivo é criar aplicações que mudem a vida das pessoas
 - 📫 Contate-me com o email: jvferreiro1@gmail.com
 
 <div align="center">
