@@ -16,6 +16,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JoaoVitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JoaoVitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JoaoVitor-React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+  
 </div>
   
   <p>_____________________________________________________________________________________________________________________________________________</p>
